@@ -16,4 +16,6 @@
 
 /* First step to compile: in the cmd promp type 'javac HelloWorldApp.java'
    After obtaining the 'HelloWorldApp.class' file, enter 'java -cp . HelloWorldApp'
+   OBS: After using 'javac' with the file, the .class file created will have the name of the main function.class,
+   and not the name of the original .java file
 */
